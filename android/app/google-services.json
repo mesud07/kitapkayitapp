@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368851377607",
+    "project_id": "fir-crud-f9320",
+    "storage_bucket": "fir-crud-f9320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368851377607:android:3184813ec0758c88390de2",
+        "android_client_info": {
+          "package_name": "com.example.kitapkayitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368851377607-r2kiibnanujv8t6aiseo46faap86erda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3dDE_CjHwCBvj7EdPDIdQgXd9-P_Nfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368851377607-r2kiibnanujv8t6aiseo46faap86erda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
